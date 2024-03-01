@@ -1,0 +1,5 @@
+[workspace]
+resolver = "2"
+members = [
+    "singly_linked_list"
+, "ttt"]
